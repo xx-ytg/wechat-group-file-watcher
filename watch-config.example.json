@@ -1,0 +1,9 @@
+{
+  "server": "http://127.0.0.1:18766",
+  "account": "ACCOUNT_ID_FROM_LOGIN",
+  "data_dir": "C:\\path\\to\\project\\runtime\\data",
+  "client_config": "C:\\path\\to\\project\\runtime\\data\\client.toml",
+  "wx": "C:\\path\\to\\project\\runtime\\wx.exe",
+  "output": "C:\\path\\to\\project\\downloads",
+  "groups": {"GROUP_ID@chatroom": "示例群"}
+}
